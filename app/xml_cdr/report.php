@@ -21,9 +21,8 @@
         Portions created by the Initial Developer are Copyright (C) 2008-2012
         the Initial Developer. All Rights Reserved.
 
-        Contributor(s):
-        James Rose <james.o.rose@gmail.com>
-        Mark J Crane <markjcrane@iungo.cloud>
+Contributor(s):
+Lucas Santos <lucas.santos@iungo.cloud>
 */
 //includes
 //set the include path

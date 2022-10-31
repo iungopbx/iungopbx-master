@@ -16,12 +16,12 @@
  The Original Code is IungoPBX
 
  The Initial Developer of the Original Code is
- Mark J Crane <markjcrane@iungo.cloud>
+ Daniel Paixao <daniel@iungo.cloud>
  Portions created by the Initial Developer are Copyright (C) 2008-2019
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
- Mark J Crane <markjcrane@iungo.cloud>
+ Lucas Santos <lucas.santos@iungo.cloud>
 */
 
 //define the voicemail class
@@ -945,7 +945,7 @@ Array
 (
     [user] => 1020
     [extension_uuid] => ecfb23df-7c59-4286-891e-2abdc48856ac
-    [outbound_caller_id_name] => Mark J Crane
+    [outbound_caller_id_name] => Daniel Paixao
     [outbound_caller_id_number] => 12089068227
 )
 

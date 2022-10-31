@@ -1,4 +1,4 @@
-; Author: Mark J Crane <markjcrane@iungo.cloud>
+; Author: Daniel Paixao <daniel@iungo.cloud>
 ; cp /var/www/iungopbx/app/fax_queue/resources/service/debian.service /etc/systemd/system/fax_queue.service
 ; systemctl enable fax_queue
 ; systemctl start fax_queue

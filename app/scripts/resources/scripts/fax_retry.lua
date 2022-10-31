@@ -15,14 +15,12 @@
 --	The Original Code is IungoPBX
 --
 --	The Initial Developer of the Original Code is
---	Mark J Crane <markjcrane@iungo.cloud>
+--	Daniel Paixao <daniel@iungo.cloud>
 --	Copyright (C) 2010 - 2022
 --	the Initial Developer. All Rights Reserved.
 --
 --	Contributor(s):
---		Mark J. Crane
---		James O. Rose
---		Luis Daniel Lucio Quiroz
+--		Lucas Santos
 
 --set default variables
 	fax_retry_sleep = 30;

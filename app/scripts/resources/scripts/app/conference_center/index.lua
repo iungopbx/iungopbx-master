@@ -1,6 +1,6 @@
 --	conference_center/index.lua
 --	Part of IungoPBX
---	Copyright (C) 2013 - 2021 Mark J Crane <markjcrane@iungo.cloud>
+--	Copyright (C) 2013 - 2021 Daniel Paixao <daniel@iungo.cloud>
 --	All rights reserved.
 --
 --	Redistribution and use in source and binary forms, with or without
@@ -25,7 +25,7 @@
 --	POSSIBILITY OF SUCH DAMAGE.
 --
 --	Contributor(s):
---	Mark J Crane <markjcrane@iungo.cloud>
+--	Lucas Santos <lucas.santos@iungo.cloud>
 --
 
 --set variables

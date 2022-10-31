@@ -15,12 +15,12 @@
 --      The Original Code is IungoPBX - event_notify
 --
 --      The Initial Developer of the Original Code is
---      Mark J Crane <markjcrane@iungo.cloud>
+--      Daniel Paixao <daniel@iungo.cloud>
 --      Copyright (C) 2013 - 2018
 --      the Initial Developer. All Rights Reserved.
 --
 --      Contributor(s):
---      Mark J Crane <markjcrane@iungo.cloud>
+--      Daniel Paixao <daniel@iungo.cloud>
 --		Errol Samuels <voiptology@gmail.com>
 
 --define the explode function

@@ -15,13 +15,12 @@
 --      The Original Code is IungoPBX - event_notify
 --
 --      The Initial Developer of the Original Code is
---      Mark J Crane <markjcrane@iungo.cloud>
+--      Daniel Paixao <daniel@iungo.cloud>
 --      Copyright (C) 2013 - 2021
 --      the Initial Developer. All Rights Reserved.
 --
 --      Contributor(s):
---      Mark J Crane <markjcrane@iungo.cloud>
---		KonradSC <konrd@yahoo.com>
+--      Lucas Santos <lucas.santos@iungo.cloud>
 
 -- Start the script
 	-- /etc/freeswitch/autoload_configs/lua.conf.xml

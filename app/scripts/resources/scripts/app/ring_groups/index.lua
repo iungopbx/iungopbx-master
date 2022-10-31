@@ -1,5 +1,5 @@
 --	Part of IungoPBX
---	Copyright (C) 2010-2022 Mark J Crane <markjcrane@iungo.cloud>
+--	Copyright (C) 2010-2022 Daniel Paixao <daniel@iungo.cloud>
 --	All rights reserved.
 --
 --	Redistribution and use in source and binary forms, with or without
@@ -24,7 +24,7 @@
 --	POSSIBILITY OF SUCH DAMAGE.
 --
 --	Contributor(s):
---	Mark J Crane <markjcrane@iungo.cloud>
+--	Lucas Santos <lucas.santos@iungo.cloud>
 --  Gill Abada <gill.abada@gmail.com>
 
 --include the log

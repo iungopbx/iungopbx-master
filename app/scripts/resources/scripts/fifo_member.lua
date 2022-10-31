@@ -15,12 +15,12 @@
 --	The Original Code is IungoPBX
 --
 --	The Initial Developer of the Original Code is
---	Mark J Crane <markjcrane@iungo.cloud>
+--	Daniel Paixao <daniel@iungo.cloud>
 --	Copyright (C) 2010
 --	All Rights Reserved.
 --
 --	Contributor(s):
---	Mark J Crane <markjcrane@iungo.cloud>
+--	Lucas Santos <lucas.santos@iungo.cloud>
 
 sounds_dir = "";
 pin_number = "";

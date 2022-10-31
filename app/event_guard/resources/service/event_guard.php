@@ -1,6 +1,6 @@
 <?php
 /*
-	Copyright (C) 2022 Mark J Crane <markjcrane@iungo.cloud>
+	Copyright (C) 2022 Daniel Paixao <daniel@iungo.cloud>
 
 	Redistribution and use in source and binary forms, with or without
 	modification, are permitted provided that the following conditions are met:

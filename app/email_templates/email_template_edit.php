@@ -16,7 +16,7 @@
  The Original Code is IungoPBX
 
  The Initial Developer of the Original Code is
- Mark J Crane <markjcrane@iungo.cloud>
+ Daniel Paixao <daniel@iungo.cloud>
  Portions created by the Initial Developer are Copyright (C) 2018
  the Initial Developer. All Rights Reserved.
 */

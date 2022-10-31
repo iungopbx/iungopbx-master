@@ -2,7 +2,7 @@
 /* $Id$ */
 /*
 	click_to_call.php
-	Copyright (C) 2008, 2021 Mark J Crane
+	Copyright (C) 2008, 2021 Daniel Paixao
 	All rights reserved.
 
 	Redistribution and use in source and binary forms, with or without

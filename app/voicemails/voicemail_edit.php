@@ -16,12 +16,12 @@
  The Original Code is IungoPBX
 
  The Initial Developer of the Original Code is
- Mark J Crane <markjcrane@iungo.cloud>
+ Daniel Paixao <daniel@iungo.cloud>
  Portions created by the Initial Developer are Copyright (C) 2008-2022
  the Initial Developer. All Rights Reserved.
 
  Contributor(s):
- Mark J Crane <markjcrane@iungo.cloud>
+ Lucas Santos <lucas.santos@iungo.cloud>
 */
 
 //set the include path

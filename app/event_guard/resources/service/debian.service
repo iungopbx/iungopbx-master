@@ -1,5 +1,5 @@
 
-; Author: Mark J Crane <markjcrane@iungo.cloud>
+; Author: Daniel Paixao <daniel@iungo.cloud>
 ; cp /var/www/iungopbx/app/event_guard/resources/service/debian.service /etc/systemd/system/event_guard.service
 ; systemctl enable event_guard
 ; systemctl start event_guard

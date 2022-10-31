@@ -15,12 +15,12 @@
 --	The Original Code is IungoPBX
 --
 --	The Initial Developer of the Original Code is
---	Mark J Crane <markjcrane@iungo.cloud>
+--	Daniel Paixao <daniel@iungo.cloud>
 --	Copyright (C) 2010-2016
 --	the Initial Developer. All Rights Reserved.
 --
 --	Contributor(s):
---	Mark J Crane <markjcrane@iungo.cloud>
+--	Lucas Santos <lucas.santos@iungo.cloud>
 
 --set defaults
 	max_tries = "3";

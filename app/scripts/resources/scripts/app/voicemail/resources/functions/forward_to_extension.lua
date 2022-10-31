@@ -1,5 +1,5 @@
 --	Part of IungoPBX
---	Copyright (C) 2013 Mark J Crane <markjcrane@iungo.cloud>
+--	Copyright (C) 2013 Daniel Paixao <daniel@iungo.cloud>
 --	All rights reserved.
 --
 --	Redistribution and use in source and binary forms, with or without

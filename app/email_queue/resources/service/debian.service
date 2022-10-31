@@ -1,4 +1,4 @@
-; Author: Mark J Crane <markjcrane@iungo.cloud>
+; Author: Daniel Paixao <daniel@iungo.cloud>
 ; cp /var/www/iungopbx/app/email_queue/resources/service/debian.service /etc/systemd/system/email_queue.service
 ; systemctl enable email_queue
 ; systemctl start email_queue
