@@ -124,7 +124,7 @@ class cache {
 				//send a custom event
 					$event = "sendevent CUSTOM\n";
 					$event .= "Event-Name: CUSTOM\n";
-					$event .= "Event-Subclass: fusion::memcache\n";
+					$event .= "Event-Subclass: iungo::memcache\n";
 					$event .= "API-Command: memcache\n";
 					$event .= "API-Command-Argument: delete ".$key."\n";
 					event_socket_request($fp, $event);
@@ -151,7 +151,7 @@ class cache {
 				//send a custom event
 					$event = "sendevent CUSTOM\n";
 					$event .= "Event-Name: CUSTOM\n";
-					$event .= "Event-Subclass: fusion::file\n";
+					$event .= "Event-Subclass: iungo::file\n";
 					$event .= "API-Command: cache\n";
 					$event .= "API-Command-Argument: delete ".$key."\n";
 					event_socket_request($fp, $event);
@@ -192,7 +192,7 @@ class cache {
 				//send a custom event
 					$event = "sendevent CUSTOM\n";
 					$event .= "Event-Name: CUSTOM\n";
-					$event .= "Event-Subclass: fusion::memcache\n";
+					$event .= "Event-Subclass: iungo::memcache\n";
 					$event .= "API-Command: memcache\n";
 					$event .= "API-Command-Argument: flush\n";
 					event_socket_request($fp, $event);
@@ -216,7 +216,7 @@ class cache {
 				//send a custom event
 					$event = "sendevent CUSTOM\n";
 					$event .= "Event-Name: CUSTOM\n";
-					$event .= "Event-Subclass: fusion::file\n";
+					$event .= "Event-Subclass: iungo::file\n";
 					$event .= "API-Command: cache\n";
 					$event .= "API-Command-Argument: flush\n";
 					event_socket_request($fp, $event);

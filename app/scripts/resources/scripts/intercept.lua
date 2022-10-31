@@ -163,7 +163,7 @@
 
 -- return array of extensions for group
 	local function select_group_extensions()
-		-- connect to Fusion database
+		-- connect to IungoPBX database
 			local dbh = Database.new('system');
 
 		--get the call groups the extension is a member of
@@ -210,7 +210,7 @@
 				log.noticef("member `%s`", member)
 			end);
 
-		-- release Fusion database
+		-- release IungoPBX database
 			dbh:release()
 
 		-- return result
